@@ -6,10 +6,6 @@
 
   🔭 Building **aiprep** — AI-powered learning platform
 
-  🚀 Built VOD platform for Samay Raina (5M+ subscribers)
-
-  ⚡ Previously at 100xDevs — built webinar system for 1000+ concurrent users
-
   💬 Ask me about scalable systems, real-time video, or full-stack development
    </div>
   <br/>
