@@ -4,7 +4,7 @@
   <h3 align="center">CTO & Technical Founder from Nepal 🇳🇵, building from Bangalore, India 🇮🇳</h3>
   <div align="center">
 
-  🔭 Building **aiprep** — AI-powered learning platform
+  🔭 Building **aiprep** : AI-powered learning platform
 
   💬 Ask me about scalable systems, real-time video, or full-stack development
    </div>
